@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<angajati>
+    <angajati>
+        <idAsigurator>10</idAsigurator>
+        <nume>Cristian Ion</nume>
+    </angajati>
+    <angajati>
+        <idAsigurator>11</idAsigurator>
+        <nume>Popescu Marius</nume>
+    </angajati>
+    <angajati>
+        <idAsigurator>12</idAsigurator>
+        <nume>Ionita Ion</nume>
+    </angajati>
+    <angajati>
+        <idAsigurator>13</idAsigurator>
+        <nume>Dan Alexandru</nume>
+    </angajati>
+    <angajati>
+        <idAsigurator>14</idAsigurator>
+        <nume>Stan Andreea</nume>
+    </angajati>
+    <angajati>
+        <idAsigurator>15</idAsigurator>
+        <nume>Stefan Cristian</nume>
+    </angajati>
+    <denumireFirma>Axasig SC</denumireFirma>
+</angajati>

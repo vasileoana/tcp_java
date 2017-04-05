@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="409.0" prefWidth="531.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proiectserver.FXMLDocumentController">
+   <children>
+      <TextArea fx:id="out" layoutX="46.0" layoutY="45.0" prefHeight="231.0" prefWidth="440.0" />
+      <Button layoutX="115.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleButtonAction" text="start" />
+      <Button layoutX="173.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleButtonStop" text="stop" />
+      <Button layoutX="307.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleButtonWrite" text="Salvare XML" />
+      <Button layoutX="415.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleButtonCitire" text="Citire XML" />
+   </children>
+</AnchorPane>

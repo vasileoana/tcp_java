@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="389.0" prefWidth="392.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proiectclient.FXMLDocumentController">
+   <children>
+      <TextArea fx:id="out" layoutX="5.0" layoutY="51.0" prefHeight="200.0" prefWidth="380.0" />
+      <TextField fx:id="textId" layoutX="169.0" layoutY="310.0" />
+      <Label fx:id="label" layoutX="83.0" layoutY="314.0" text="IdAsigurare" />
+      <Button layoutX="154.0" layoutY="350.0" mnemonicParsing="false" onAction="#handleButtonActionId" text="Afiseaza" />
+   </children>
+</AnchorPane>
